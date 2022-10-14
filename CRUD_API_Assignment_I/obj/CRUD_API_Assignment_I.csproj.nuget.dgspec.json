@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubhankar Shubham\\source\\repos\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj": {}
+    "C:\\Users\\Shubhankar Shubham\\Desktop\\Experiment\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubhankar Shubham\\source\\repos\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj": {
+    "C:\\Users\\Shubhankar Shubham\\Desktop\\Experiment\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubhankar Shubham\\source\\repos\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj",
+        "projectUniqueName": "C:\\Users\\Shubhankar Shubham\\Desktop\\Experiment\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj",
         "projectName": "CRUD_API_Assignment_I",
-        "projectPath": "C:\\Users\\Shubhankar Shubham\\source\\repos\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj",
+        "projectPath": "C:\\Users\\Shubhankar Shubham\\Desktop\\Experiment\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I.csproj",
         "packagesPath": "C:\\Users\\Shubhankar Shubham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubhankar Shubham\\source\\repos\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\obj\\",
+        "outputPath": "C:\\Users\\Shubhankar Shubham\\Desktop\\Experiment\\CRUD_API_Assignment_I\\CRUD_API_Assignment_I\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shubhankar Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",
